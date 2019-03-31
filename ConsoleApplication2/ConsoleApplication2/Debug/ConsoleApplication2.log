@@ -1,12 +1,21 @@
 ﻿  ConsoleApplication2.cpp
-d:\kostia\projects\laba_1\consoleapplication2\consoleapplication2\consoleapplication2.cpp(112): error C2664: "unsigned int std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy(_Elem *const ,unsigned int,const unsigned int) const": невозможно преобразовать аргумент 1 из "std::string" в "_Elem *const "
-          with
-          [
-              _Elem=char
-          ]
-  d:\kostia\projects\laba_1\consoleapplication2\consoleapplication2\consoleapplication2.cpp(112): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
-  d:\kostia\projects\laba_1\consoleapplication2\consoleapplication2\consoleapplication2.cpp(34): note: выполняется компиляция ссылки на экземпляр шаблон функции "void input<std::string>(std::vector<std::string,std::allocator<_Ty>> &,const int)"
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(160): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(45): note: выполняется компиляция ссылки на экземпляр шаблон функции "void encryption<std::string,char>(std::vector<std::string,std::allocator<_Ty>> &,std::vector<char,std::allocator<char>>)"
           with
           [
               _Ty=std::string
           ]
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(199): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(51): note: выполняется компиляция ссылки на экземпляр шаблон функции "void decryption<std::string,char>(std::vector<std::string,std::allocator<_Ty>> &,std::vector<char,std::allocator<char>>)"
+          with
+          [
+              _Ty=std::string
+          ]
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(203): warning C4018: <: несоответствие типов со знаком и без знака
+d:\kostia\projects\laba_1\laba\consoleapplication2\consoleapplication2\consoleapplication2.cpp(207): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication2.vcxproj -> D:\Kostia\Projects\Laba_1\Laba\ConsoleApplication2\Debug\ConsoleApplication2.exe
