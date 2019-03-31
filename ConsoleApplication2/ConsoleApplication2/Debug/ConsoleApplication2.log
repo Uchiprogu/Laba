@@ -1,0 +1,12 @@
+﻿  ConsoleApplication2.cpp
+d:\kostia\projects\laba_1\consoleapplication2\consoleapplication2\consoleapplication2.cpp(112): error C2664: "unsigned int std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy(_Elem *const ,unsigned int,const unsigned int) const": невозможно преобразовать аргумент 1 из "std::string" в "_Elem *const "
+          with
+          [
+              _Elem=char
+          ]
+  d:\kostia\projects\laba_1\consoleapplication2\consoleapplication2\consoleapplication2.cpp(112): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  d:\kostia\projects\laba_1\consoleapplication2\consoleapplication2\consoleapplication2.cpp(34): note: выполняется компиляция ссылки на экземпляр шаблон функции "void input<std::string>(std::vector<std::string,std::allocator<_Ty>> &,const int)"
+          with
+          [
+              _Ty=std::string
+          ]
