@@ -181,7 +181,7 @@ void input(vector<T>& arr,const int sizeKey)
 	// I'm confused about whether you want a line, or a word.
 	// this gets a line
 	//std::getline(std::cin, str);
-	str = ("in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum");
+	str = ("involuptate dent");
 	print(str);
 	// this gets a word
 	//std::cin >> str;
